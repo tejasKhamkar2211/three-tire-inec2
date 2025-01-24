@@ -6,7 +6,7 @@ echo $lname;
 
 
 
-$servername = "dbpod";
+$servername = "localhost";
 $username = "root";
 $password = "Satara@123";
 $dbname = "facebook";
